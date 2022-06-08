@@ -1,5 +1,5 @@
 <h1>Projeto Sensor de Gás</h1>
-<h2>Projeto sensor de gás ou fumaça com placa <a href="https://www.arduino.cc/reference/pt/" target="_blank">Arduino</a><h2>
+<h2>Projeto sensor de gás com alarme. <a href="https://www.arduino.cc/reference/pt/" target="_blank">Arduino</a><h2>
 <p>Materiais:</p>
 <ul>
   <li>1 Placa Arduino</li>
