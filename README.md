@@ -3,10 +3,9 @@
 <p>Materiais:</p>
 <ul>
   <li>1 Placa Arduino</li>
-  <li>4 resistores de 330 omhs</li>
-  <li>4 resistores de 330 omhs</li>
+  <li>4 resistores de 330 ohms</li>
   <li>3 leds</li>
-  <li>1 sersor de gás</li>
+  <li>1 sensor de gás</li>
   <li>1 buzzer</li>
   <li>Conjunto jumpers(conectores)</li>
   <li>Protoboard</li>
