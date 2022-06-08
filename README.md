@@ -10,5 +10,6 @@
   <li>Conjunto jumpers(conectores)</li>
   <li>Protoboard</li>
 </ul>  
-  
+
+<img src="https://github.com/josecscosta1977/arduino_sensor_gas_alarme/blob/master/esquena_sensor_g%C3%A1s.PNG?raw=true">  
 
