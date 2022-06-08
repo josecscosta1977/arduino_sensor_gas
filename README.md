@@ -1,8 +1,7 @@
-<h1>Projeto Sensor de Gás</h1>
-<h2>Projeto sensor de gás com alarme. <a href="https://www.arduino.cc/reference/pt/" target="_blank">Arduino</a><h2>
+<h1>Projeto Sensor de Gás com alarme</h1>
 <p>Materiais:</p>
 <ul>
-  <li>1 Placa Arduino</li>
+  <li>1 Placa <a href="https://www.arduino.cc/reference/pt/" target="_blank">Arduino</a></li>
   <li>4 resistores de 330 ohms</li>
   <li>3 leds</li>
   <li>1 sensor de gás</li>
